@@ -76,7 +76,7 @@
 <body>
     <h1>WDV221 Homework</h1>
     <p>By Yvonne Meugang</p>
-    <h2>Styling my homework introduction page with CSS using Flexbox</h2>
+    <h2>My homework introduction page with JavaScript</h2>
 <p>Till date, we have created      . Here, we present them using a header, three unequal columns and a footer. On smaller screens, the columns will stack on top of each other. Resize the browser window to see the responsive effect.</p>
 <div class="header">
   <h2>My Work Samples</h2>
@@ -92,10 +92,10 @@
 -->
 <main>
 <div class="row">
-  <div class="column side" style="background-color:#aaa;">Column 1 <h2></h2><p><a href=""></a></p><p>Learn about Koalas habitat, what they are, and efforts that are undergoing to save them from extinction.</p></div>
-  <div class="column middle" style="background-color:#bbb;">Column 2<h2></h2><p><a href=""></a></p><p>Pathnames are the file system of a website. Check instructions on how to successfully organize a website.</p></div>
-  <div class="column side" style="background-color:#ccc;">Column 3<h2></h2><p><a href=""></a></p><p>Join Stacy and Brian in their cause about caring for Alaskan dogs at Summit farms.</p></div>
-  <div class="column side" style="background-color:#ccc;">Column 4<h2></h2><p><a href=""></a></p><p>To build responsive websites, Bootstrap 5 is a popular tool. Here is what Yvonne did: a sample and a <a href="bootstrap_example/bootstrap_form.html">Form</a>.</p></div>
+  <div class="column side" style="background-color:#aaa;">Column 1 <h2></h2><p><a href=""></a></p><p>Learn about 0...</p></div>
+  <div class="column middle" style="background-color:#bbb;">Column 2<h2></h2><p><a href=""></a></p><p>Coming soon...</p></div>
+  <div class="column side" style="background-color:#ccc;">Column 3<h2></h2><p><a href=""></a></p><p>Coming next...</p></div>
+  <div class="column side" style="background-color:#ccc;">Column 4<h2></h2><p><a href=""></a></p><p>Finally...</p></div>
 </div>
 <div class="display-4">
   Please check my overall progress from my <a href="">Final project Home Page</a>!
